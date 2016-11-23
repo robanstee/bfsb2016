@@ -1,0 +1,115 @@
+[04-May-2016 00:10:13 UTC] PHP Warning:  fopen(../pw): failed to open stream: No such file or directory in /home/bfsb1313/public_html/util/dbConn.php on line 4
+[04-May-2016 00:10:13 UTC] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/bfsb1313/public_html/util/dbConn.php on line 5
+[04-May-2016 00:10:13 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'bfsbadmin'@'a2plcpnl0618.prod.iad2.secureserver.net' (using password: NO) in /home/bfsb1313/public_html/util/dbConn.php on line 8
+[04-May-2016 00:10:26 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'bfsbadmin'@'a2plcpnl0618.prod.iad2.secureserver.net' (using password: YES) in /home/bfsb1313/public_html/util/dbConn.php on line 8
+[04-May-2016 00:26:15 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'bfsbadmin'@'a2plcpnl0618.prod.iad2.secureserver.net' (using password: YES) in /home/bfsb1313/public_html/util/dbConn.php on line 8
+[04-May-2016 00:30:35 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'a2plcpnl0618.prod.iad2.secureserver.net:3306' (2) in /home/bfsb1313/public_html/util/dbConn.php on line 8
+[04-May-2016 00:33:47 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'a2plcpnl0618.prod.iad2.secureserver.net:3306' (2) in /home/bfsb1313/public_html/util/dbConn.php on line 4
+[04-May-2016 00:33:49 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'a2plcpnl0618.prod.iad2.secureserver.net:3306' (0) in /home/bfsb1313/public_html/util/dbConn.php on line 4
+[04-May-2016 00:33:51 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'a2plcpnl0618.prod.iad2.secureserver.net:3306' (0) in /home/bfsb1313/public_html/util/dbConn.php on line 4
+[04-May-2016 00:34:22 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'a2plcpnl0618.prod.iad2.secureserver.net:3306' (0) in /home/bfsb1313/public_html/util/dbConn.php on line 4
+[04-May-2016 00:34:23 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'a2plcpnl0618.prod.iad2.secureserver.net:3306' (0) in /home/bfsb1313/public_html/util/dbConn.php on line 4
+[04-May-2016 00:34:24 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'a2plcpnl0618.prod.iad2.secureserver.net:3306' (0) in /home/bfsb1313/public_html/util/dbConn.php on line 4
+[04-May-2016 00:34:24 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'a2plcpnl0618.prod.iad2.secureserver.net:3306' (0) in /home/bfsb1313/public_html/util/dbConn.php on line 4
+[04-May-2016 00:34:24 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'a2plcpnl0618.prod.iad2.secureserver.net:3306' (0) in /home/bfsb1313/public_html/util/dbConn.php on line 4
+[04-May-2016 00:35:12 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'a2plcpnl0618.prod.iad2.secureserver.net:3306' (0) in /home/bfsb1313/public_html/util/dbConn.php on line 4
+[04-May-2016 00:35:14 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'a2plcpnl0618.prod.iad2.secureserver.net:3306' (0) in /home/bfsb1313/public_html/util/dbConn.php on line 4
+[04-May-2016 00:35:22 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'a2plcpnl0618.prod.iad2.secureserver.net:3306' (0) in /home/bfsb1313/public_html/util/dbConn.php on line 4
+[04-May-2016 00:35:29 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'bfsbadmin'@'a2plcpnl0618.prod.iad2.secureserver.net' (using password: YES) in /home/bfsb1313/public_html/util/dbConn.php on line 4
+[04-May-2016 00:36:07 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'bfsbdba'@'a2plcpnl0618.prod.iad2.secureserver.net' (using password: YES) in /home/bfsb1313/public_html/util/dbConn.php on line 4
+[04-May-2016 00:36:08 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'bfsbdba'@'a2plcpnl0618.prod.iad2.secureserver.net' (using password: YES) in /home/bfsb1313/public_html/util/dbConn.php on line 4
+[04-May-2016 00:36:22 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'bfsbdba'@'a2plcpnl0618.prod.iad2.secureserver.net' (using password: YES) in /home/bfsb1313/public_html/util/dbConn.php on line 4
+[04-May-2016 00:36:23 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'bfsbdba'@'a2plcpnl0618.prod.iad2.secureserver.net' (using password: YES) in /home/bfsb1313/public_html/util/dbConn.php on line 4
+[04-May-2016 00:36:31 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'a2plcpnl0618.prod.iad2.secureserver.net:3306' (0) in /home/bfsb1313/public_html/util/dbConn.php on line 4
+[04-May-2016 00:36:41 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'bfsbdba'@'a2plcpnl0618.prod.iad2.secureserver.net' (using password: YES) in /home/bfsb1313/public_html/util/dbConn.php on line 4
+[04-May-2016 00:36:41 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'bfsbdba'@'a2plcpnl0618.prod.iad2.secureserver.net' (using password: YES) in /home/bfsb1313/public_html/util/dbConn.php on line 4
+[04-May-2016 00:37:25 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'bfsbdba'@'a2plcpnl0618.prod.iad2.secureserver.net' (using password: YES) in /home/bfsb1313/public_html/util/dbConn.php on line 4
+[04-May-2016 00:37:26 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'bfsbdba'@'a2plcpnl0618.prod.iad2.secureserver.net' (using password: YES) in /home/bfsb1313/public_html/util/dbConn.php on line 4
+[04-May-2016 00:37:26 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'bfsbdba'@'a2plcpnl0618.prod.iad2.secureserver.net' (using password: YES) in /home/bfsb1313/public_html/util/dbConn.php on line 4
+[04-May-2016 00:43:58 UTC] PHP Catchable fatal error:  Object of class mysqli could not be converted to string in /home/bfsb1313/public_html/util/dbConn.php on line 5
+[04-May-2016 00:59:59 UTC] PHP Notice:  Undefined variable: _SESSION in /home/bfsb1313/public_html/util/login.php on line 3
+[04-May-2016 00:59:59 UTC] PHP Notice:  Undefined index: login in /home/bfsb1313/public_html/util/login.php on line 5
+[04-May-2016 01:03:33 UTC] PHP Notice:  Undefined index: login in /home/bfsb1313/public_html/util/login.php on line 6
+[04-May-2016 01:03:48 UTC] PHP Notice:  Undefined index: login in /home/bfsb1313/public_html/util/login.php on line 6
+[04-May-2016 01:03:49 UTC] PHP Notice:  Undefined index: login in /home/bfsb1313/public_html/util/login.php on line 6
+[04-May-2016 01:03:58 UTC] PHP Notice:  Undefined index: login in /home/bfsb1313/public_html/util/login.php on line 6
+[05-May-2016 01:37:46 UTC] PHP Warning:  file(../pw): failed to open stream: No such file or directory in /home/bfsb1313/public_html/util/dbConn.php on line 5
+[05-May-2016 01:39:26 UTC] PHP Warning:  file_exists() expects exactly 1 parameter, 2 given in /home/bfsb1313/public_html/util/dbConn.php on line 5
+[05-May-2016 01:39:26 UTC] PHP Warning:  file_exists() expects exactly 1 parameter, 2 given in /home/bfsb1313/public_html/util/dbConn.php on line 7
+[05-May-2016 01:39:26 UTC] PHP Warning:  file_exists() expects exactly 1 parameter, 2 given in /home/bfsb1313/public_html/util/dbConn.php on line 9
+[05-May-2016 01:39:26 UTC] PHP Notice:  Undefined variable: arrdb in /home/bfsb1313/public_html/util/dbConn.php on line 14
+[05-May-2016 01:39:26 UTC] PHP Notice:  Undefined variable: arrdb in /home/bfsb1313/public_html/util/dbConn.php on line 14
+[05-May-2016 01:39:26 UTC] PHP Notice:  Undefined variable: arrdb in /home/bfsb1313/public_html/util/dbConn.php on line 14
+[05-May-2016 01:39:26 UTC] PHP Notice:  Undefined variable: arrdb in /home/bfsb1313/public_html/util/dbConn.php on line 14
+[05-May-2016 01:39:26 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'bfsb1313'@'localhost' (using password: NO) in /home/bfsb1313/public_html/util/dbConn.php on line 14
+[06-May-2016 16:46:49 UTC] PHP Notice:  Undefined variable: _SESSION in /home/bfsb1313/public_html/util/login.php on line 15
+[06-May-2016 16:46:49 UTC] PHP Notice:  Undefined variable: u_name in /home/bfsb1313/public_html/util/login.php on line 23
+[06-May-2016 16:47:07 UTC] PHP Notice:  Undefined variable: u_name in /home/bfsb1313/public_html/util/login.php on line 23
+[08-May-2016 16:35:54 UTC] PHP Fatal error:  Class 'userUtils' not found in /home/bfsb1313/public_html/util/login.php on line 16
+[08-May-2016 16:43:26 UTC] PHP Notice:  Undefined index: usertoken in /home/bfsb1313/public_html/util/login.php on line 17
+[09-May-2016 02:02:47 UTC] PHP Notice:  Undefined index:  in /home/bfsb1313/public_html/util/login.php on line 17
+[09-May-2016 02:21:45 UTC] PHP Notice:  Undefined index: REQUEST_ADDR in /home/bfsb1313/public_html/util/apiClient.php on line 29
+[09-May-2016 02:36:42 UTC] PHP Fatal error:  Call to undefined function curl_septopt_array() in /home/bfsb1313/public_html/util/apiClient.php on line 21
+[09-May-2016 02:37:06 UTC] PHP Notice:  Couldn't resolve host '.' in /home/bfsb1313/public_html/util/apiClient.php on line 38
+[09-May-2016 02:37:53 UTC] PHP Notice:  Couldn't resolve host '.' in /home/bfsb1313/public_html/util/apiClient.php on line 38
+[09-May-2016 02:38:31 UTC] PHP Notice:  Couldn't resolve host '.' in /home/bfsb1313/public_html/util/apiClient.php on line 38
+[09-May-2016 02:39:22 UTC] PHP Notice:  Couldn't resolve host '".' in /home/bfsb1313/public_html/util/apiClient.php on line 38
+[09-May-2016 02:39:36 UTC] PHP Notice:  Couldn't resolve host '.' in /home/bfsb1313/public_html/util/apiClient.php on line 38
+[09-May-2016 02:39:44 UTC] PHP Notice:  Couldn't resolve host '".' in /home/bfsb1313/public_html/util/apiClient.php on line 38
+[09-May-2016 02:40:57 UTC] PHP Notice:  Couldn't resolve host 'api' in /home/bfsb1313/public_html/util/apiClient.php on line 38
+[09-May-2016 02:41:03 UTC] PHP Notice:  <url> malformed in /home/bfsb1313/public_html/util/apiClient.php on line 38
+[09-May-2016 02:41:11 UTC] PHP Notice:  <url> malformed in /home/bfsb1313/public_html/util/apiClient.php on line 38
+[09-May-2016 19:36:59 UTC] PHP Notice:  Undefined index: userToken in /home/bfsb1313/public_html/util/login.php on line 19
+[09-May-2016 19:59:54 UTC] PHP Notice:  Undefined index: userToken in /home/bfsb1313/public_html/util/login.php on line 19
+[10-May-2016 00:15:36 UTC] PHP Notice:  Undefined index: userToken in /home/bfsb1313/public_html/util/login.php on line 17
+[10-May-2016 14:00:57 UTC] PHP Notice:  Undefined index: userToken in /home/bfsb1313/public_html/util/login.php on line 17
+[11-May-2016 13:44:31 UTC] PHP Notice:  Undefined index: userToken in /home/bfsb1313/public_html/util/login.php on line 17
+[12-May-2016 13:47:06 UTC] PHP Notice:  Undefined index: userToken in /home/bfsb1313/public_html/util/login.php on line 17
+[13-May-2016 14:08:46 UTC] PHP Notice:  Undefined index: userToken in /home/bfsb1313/public_html/util/login.php on line 17
+[16-May-2016 13:40:59 UTC] PHP Notice:  Undefined index: userToken in /home/bfsb1313/public_html/util/login.php on line 17
+[16-May-2016 19:59:43 UTC] PHP Notice:  Undefined index: userToken in /home/bfsb1313/public_html/util/login.php on line 17
+[16-May-2016 20:41:29 UTC] PHP Fatal error:  Class 'dbUtils' not found in /home/bfsb1313/public_html/util/sql_query.php on line 28
+[16-May-2016 20:42:27 UTC] PHP Fatal error:  Using $this when not in object context in /home/bfsb1313/public_html/util/dbUtils.php on line 16
+[16-May-2016 20:44:10 UTC] PHP Fatal error:  Class name must be a valid object or a string in /home/bfsb1313/public_html/util/dbUtils.php on line 16
+[16-May-2016 20:45:25 UTC] PHP Fatal error:  Using $this when not in object context in /home/bfsb1313/public_html/util/dbUtils.php on line 19
+[16-May-2016 20:53:46 UTC] PHP Fatal error:  Call to undefined function mysqli_fetch_all() in /home/bfsb1313/public_html/util/dbUtils.php on line 21
+[16-May-2016 20:56:11 UTC] PHP Fatal error:  Call to undefined function mysqli_fetch_all() in /home/bfsb1313/public_html/util/dbUtils.php on line 21
+[16-May-2016 20:56:14 UTC] PHP Fatal error:  Call to undefined function mysqli_fetch_all() in /home/bfsb1313/public_html/util/dbUtils.php on line 21
+[17-May-2016 13:34:15 UTC] PHP Notice:  Undefined index: userToken in /home/bfsb1313/public_html/util/login.php on line 17
+[17-May-2016 13:34:15 UTC] PHP Notice:  Undefined index: userToken in /home/bfsb1313/public_html/util/login.php on line 24
+[18-May-2016 13:59:58 UTC] PHP Notice:  Undefined index: userToken in /home/bfsb1313/public_html/util/login.php on line 17
+[18-May-2016 13:59:58 UTC] PHP Notice:  Undefined index: userToken in /home/bfsb1313/public_html/util/login.php on line 24
+[19-May-2016 13:47:42 UTC] PHP Notice:  Undefined index: userToken in /home/bfsb1313/public_html/util/login.php on line 17
+[19-May-2016 13:47:42 UTC] PHP Notice:  Undefined index: userToken in /home/bfsb1313/public_html/util/login.php on line 24
+[20-May-2016 15:20:48 UTC] PHP Notice:  Undefined index: userToken in /home/bfsb1313/public_html/util/login.php on line 17
+[20-May-2016 15:20:48 UTC] PHP Notice:  Undefined index: userToken in /home/bfsb1313/public_html/util/login.php on line 24
+[21-May-2016 15:21:23 UTC] PHP Notice:  Undefined index: userToken in /home/bfsb1313/public_html/util/login.php on line 17
+[21-May-2016 15:21:23 UTC] PHP Notice:  Undefined index: userToken in /home/bfsb1313/public_html/util/login.php on line 24
+[22-May-2016 15:13:33 UTC] PHP Notice:  Undefined index: userToken in /home/bfsb1313/public_html/util/login.php on line 17
+[22-May-2016 15:13:33 UTC] PHP Notice:  Undefined index: userToken in /home/bfsb1313/public_html/util/login.php on line 24
+[22-May-2016 15:30:28 UTC] PHP Notice:  Undefined index: userToken in /home/bfsb1313/public_html/util/login.php on line 17
+[22-May-2016 15:30:28 UTC] PHP Notice:  Undefined index: userToken in /home/bfsb1313/public_html/util/login.php on line 24
+[23-May-2016 14:27:34 UTC] PHP Notice:  Undefined index: userToken in /home/bfsb1313/public_html/util/login.php on line 17
+[23-May-2016 14:27:34 UTC] PHP Notice:  Undefined index: userToken in /home/bfsb1313/public_html/util/login.php on line 24
+[25-May-2016 13:24:35 UTC] PHP Notice:  Undefined variable: sess in /home/bfsb1313/public_html/util/login.php on line 21
+[25-May-2016 13:24:35 UTC] PHP Notice:  Trying to get property of non-object in /home/bfsb1313/public_html/util/login.php on line 21
+[26-May-2016 04:04:43 UTC] PHP Notice:  Undefined variable: sess in /home/bfsb1313/public_html/util/login.php on line 21
+[26-May-2016 04:04:43 UTC] PHP Notice:  Trying to get property of non-object in /home/bfsb1313/public_html/util/login.php on line 21
+[26-May-2016 13:37:55 UTC] PHP Notice:  Undefined variable: sess in /home/bfsb1313/public_html/util/login.php on line 21
+[26-May-2016 13:37:55 UTC] PHP Notice:  Trying to get property of non-object in /home/bfsb1313/public_html/util/login.php on line 21
+[27-May-2016 13:40:45 UTC] PHP Notice:  Undefined variable: sess in /home/bfsb1313/public_html/util/login.php on line 21
+[27-May-2016 13:40:45 UTC] PHP Notice:  Trying to get property of non-object in /home/bfsb1313/public_html/util/login.php on line 21
+[30-May-2016 15:11:11 UTC] PHP Notice:  Undefined variable: sess in /home/bfsb1313/public_html/util/login.php on line 21
+[30-May-2016 15:11:11 UTC] PHP Notice:  Trying to get property of non-object in /home/bfsb1313/public_html/util/login.php on line 21
+[30-May-2016 16:43:27 UTC] PHP Notice:  Undefined variable: sess in /home/bfsb1313/public_html/util/login.php on line 21
+[30-May-2016 16:43:27 UTC] PHP Notice:  Trying to get property of non-object in /home/bfsb1313/public_html/util/login.php on line 21
+[31-May-2016 14:00:27 UTC] PHP Notice:  Undefined variable: sess in /home/bfsb1313/public_html/util/login.php on line 21
+[31-May-2016 14:00:27 UTC] PHP Notice:  Trying to get property of non-object in /home/bfsb1313/public_html/util/login.php on line 21
+[02-Jun-2016 02:02:13 UTC] PHP Notice:  Undefined variable: sess in /home/bfsb1313/public_html/util/login.php on line 21
+[02-Jun-2016 02:02:13 UTC] PHP Notice:  Trying to get property of non-object in /home/bfsb1313/public_html/util/login.php on line 21
+[02-Jun-2016 13:31:38 UTC] PHP Notice:  Undefined variable: sess in /home/bfsb1313/public_html/util/login.php on line 21
+[02-Jun-2016 13:31:38 UTC] PHP Notice:  Trying to get property of non-object in /home/bfsb1313/public_html/util/login.php on line 21
+[03-Jun-2016 13:43:33 UTC] PHP Notice:  Undefined variable: sess in /home/bfsb1313/public_html/util/login.php on line 21
+[03-Jun-2016 13:43:33 UTC] PHP Notice:  Trying to get property of non-object in /home/bfsb1313/public_html/util/login.php on line 21
+[04-Jun-2016 15:37:22 UTC] PHP Notice:  Undefined variable: sess in /home/bfsb1313/public_html/util/login.php on line 21
+[04-Jun-2016 15:37:22 UTC] PHP Notice:  Trying to get property of non-object in /home/bfsb1313/public_html/util/login.php on line 21
