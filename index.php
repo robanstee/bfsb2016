@@ -22,7 +22,7 @@ if (!empty($_COOKIE['userToken'])) {
     <body>
         
 <?php
-print_r($_COOKIE);
+#print_r($_COOKIE);
 if ($sess->currsess != false) {
     //secure content here
     echo '<h1>Welcome '.$sess->username.'!</h1>';
