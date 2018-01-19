@@ -34,9 +34,7 @@ if ($sess->currsess != false) {
 } else {
     //insecure content here
     ?>
-       <div id="redditnews" style="padding:25px;width:300px;"> 
-          <script src="https://www.reddit.com/hot/.embed?limit=100&t=all" type="text/javascript"></script> 
-       </div>
+     
     <?php include_once("util/login.php");
 }
 ?>
