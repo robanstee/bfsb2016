@@ -49,7 +49,11 @@ class dbUtils {
         return $result;
     }
 
+    function bldr_dbClient() {
+        
+    }
 
 }
+
 
 ?>
